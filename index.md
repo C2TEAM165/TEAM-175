@@ -28,14 +28,14 @@ Go to [the team 175 website](https://youtu.be/IJq0yyWug1k)
 
 
 
-# LOVE LIFE![10-Best-Relationship-Love-Quotes-For-Women-48365-4](https://user-images.githubusercontent.com/100404698/155828669-3cb43266-2d07-4ca8-8959-18a4d0681831.jpg)
+# LOVE LIFE!
+![10-Best-Relationship-Love-Quotes-For-Women-48365-4](https://user-images.githubusercontent.com/100404698/155828750-c4af685c-4086-4b5b-ae36-2aa515640987.jpg)
 
 
 
-# FUNNY LOVE 
-![sweet-cute-love-quotes](https://user-images.githubusercontent.com/100404698/155828672-92a92f59-0b0a-43cc-aeb6-f500825c6bf0.jpg)
+# FUNNY LOVE!
 
-
+![sweet-cute-love-quotes](https://user-images.githubusercontent.com/100404698/155828770-db656286-82d4-4641-8dad-4225cf38212a.jpg)
 
 
 # TEAM 175
