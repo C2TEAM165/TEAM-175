@@ -22,16 +22,18 @@
 
 # TEAM 175
 
-Go to [the team 175 website](https://youtu.be/Fzu06q9HKWc)
+Go to [the team 175 website](https://youtu.be/IJq0yyWug1k)
 
 
 
 
 
-# Creating Mods
+# LOVE LIFE![10-Best-Relationship-Love-Quotes-For-Women-48365-4](https://user-images.githubusercontent.com/100404698/155828669-3cb43266-2d07-4ca8-8959-18a4d0681831.jpg)
 
 
-# DARK MODS
+
+# FUNNY LOVE 
+![sweet-cute-love-quotes](https://user-images.githubusercontent.com/100404698/155828672-92a92f59-0b0a-43cc-aeb6-f500825c6bf0.jpg)
 
 
 
@@ -46,17 +48,11 @@ If you wish to actually inspect TEAM 175, submit PRs or otherwise work
  with Forge itself, you're in the right place!
  
 
-# FEEDBACK
 
-
-Please read the contributing guidelines found [here](CONTRIBUTING.md) before making a pull request.
 
 ### Contributor License Agreement
 We require all contributors to acknowledge . Please ensure you have a valid email address
  associated with your GitHub account to do this. If you have previously
  signed it, you should be OK.
-
-#### Donate
-*Forge is a large project with many collaborators working on it around the clock. Forge is and will always remain free to use and modify. However, it costs money to run such a large project as this, so please consider [becoming a patron](https://www.patreon.com/LexManos).*
 
 
