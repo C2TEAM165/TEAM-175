@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# TEAM-175
 
-You can use the [editor on GitHub](https://github.com/C2TEAM165/TEAM-175/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![2016-01-24-1453650876-3815350-lovemylife-thumb](https://user-images.githubusercontent.com/100404698/155689707-49240810-0927-4c8d-9d77-04971cee67e8.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# WELCOME TO OUR WEBSITE 
+=============
+# C2-TEAM-175
 
-### Markdown
+|    TEAM       |    MEMBERS |
+| ------------- | -----------|
+|   ARJUN M         |20BEI005|
+|   DEEPIKA L       |20BIT007|
+|   YOGA ARAVIND K  |20BAE210|
+|   KANISHK B K     |20BAU207|
+|   NAVEEN I        |20BEC217|
+|   THARAN KUMAR M  |20BME257|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# TEAM 175
 
-[Link](url) and ![Image](src)
-```
+Go to [the team 175 website](https://c2team165.github.io/TEAM-165/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+https://youtu.be/8FAUEv_E_xQ
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/C2TEAM165/TEAM-175/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# Creating Mods
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# DARK MODS
+
+
+
+
+# TEAM 175
+
+
+
+# Contribute to TEAM 175
+
+If you wish to actually inspect TEAM 175, submit PRs or otherwise work
+ with Forge itself, you're in the right place!
+ 
+
+# FEEDBACK
+
+
+Please read the contributing guidelines found [here](CONTRIBUTING.md) before making a pull request.
+
+### Contributor License Agreement
+We require all contributors to acknowledge . Please ensure you have a valid email address
+ associated with your GitHub account to do this. If you have previously
+ signed it, you should be OK.
+
+#### Donate
+*Forge is a large project with many collaborators working on it around the clock. Forge is and will always remain free to use and modify. However, it costs money to run such a large project as this, so please consider [becoming a patron](https://www.patreon.com/LexManos).*
+
+
