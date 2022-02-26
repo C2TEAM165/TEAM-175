@@ -22,7 +22,7 @@
 
 # TEAM 175
 
-Go to [the team 175 website](https://c2team165.github.io/TEAM-165/)
+Go to [the team 175 website](https://c2team165.github.io/TEAM-175/)
 
 https://youtu.be/Fzu06q9HKWc
 
